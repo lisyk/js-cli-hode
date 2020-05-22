@@ -1,0 +1,25 @@
+{
+  "name": "js-cli-nodejs",
+  "version": "1.0.0",
+  "description": "js cli app with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisyk/js-cli-hode.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "npm",
+    "sitepoint"
+  ],
+  "author": "lisyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisyk/js-cli-hode/issues"
+  },
+  "homepage": "https://github.com/lisyk/js-cli-hode#readme"
+}
